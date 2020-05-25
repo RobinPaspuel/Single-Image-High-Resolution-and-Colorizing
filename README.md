@@ -1,6 +1,6 @@
 # Single-Image-High-Resolution-and-Colorizing.
 ## Custom Integration of ESRGAN and DeOldify with Adittional Image Processing Methods
-##Author: Robinson Paspuel 
+** Author: Robinson Paspuel 
 
 The use of this notebook and the content within is free for any purpose, and can be modifed at convenience.
 
