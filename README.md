@@ -3,7 +3,7 @@
 ** Author: Robinson Paspuel 
 
 The use of this notebook and the content within is free for any purpose, and can be modifed at convenience.
-Notebook: https://colab.research.google.com/drive/1g8dusQsw7aZl8ILNXdOsy5jfLSJzwhIi#scrollTo=z1BHVlHgfu9T
+Notebook: 
 
 The use and modification of ESRGAN is free under license Apache2.0. The Original work can be found in the following repository:
 [ESRGAN](https://github.com/xinntao/ESRGAN)
