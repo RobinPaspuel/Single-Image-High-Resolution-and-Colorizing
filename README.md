@@ -12,3 +12,4 @@ The use and modification of ESRGAN is free under license Apache2.0. The Original
 
 The use and modification of DeOldify is free under MIT license. The Original work can be found in the following repository:
 [DeOldify](https://github.com/jantic/DeOldify)
+
